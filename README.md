@@ -7,5 +7,5 @@
 
 ### To run the tests, use one of the following options:
 - Run the command `mvn clean test` in your terminal.
-- Right-click on the `TestNGRunnerTest` class and select `Run 'TestNGRunnerTest' to run both features.
+- Right-click on the `TestNGRunnerTest` class and select `Run 'TestNGRunnerTest'` to run both features.
 - Go to the features file and select the specific feature you would like to run, right-click run or press the play button found on the left-hand side of the feature.
